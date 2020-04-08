@@ -2,8 +2,8 @@
 title:
 email:
 description: > # this means to ignore newlines until "baseurl:"
-baseurl: "https://www.copperpeakltd.co.uk" # the subpath of your site, e.g. /blog/
-url: "https://www.copperpeakltd.co.uk" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "www.copperpeakltd.co.uk" # the base hostname & protocol for your site
 
 twitter_username:
 linkedin_username:
