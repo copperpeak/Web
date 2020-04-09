@@ -94,7 +94,7 @@ aside {
                 font-size: 20px;
                 color: $theme-dark;
                 &:hover {
-                    color: darken($theme-primary,50%);
+                    color: darken($theme-primary,10%);
                 }
             }
             &.active {
@@ -134,7 +134,7 @@ aside {
                 font-size: 20px;
                 &:hover,
                 &:focus {
-                    color: $theme-primary,10%;
+                    color: darken($theme-primary,10%);
                 }
             }
             .nav > li > a,
