@@ -134,7 +134,7 @@ aside {
                 font-size: 20px;
                 &:hover,
                 &:focus {
-                    color: $theme-dark;
+                    color: $theme-primary,10%;
                 }
             }
             .nav > li > a,
