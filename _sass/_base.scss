@@ -92,7 +92,7 @@ aside {
                 text-transform: uppercase;
                 font-weight: 700;
                 font-size: 20px;
-                color: $theme-dark;
+                color: $theme-primary;
                 &:hover {
                     color: darken($theme-dark,10%);
                 }
@@ -134,14 +134,14 @@ aside {
                 font-size: 20px;
                 &:hover,
                 &:focus {
-                    color: $theme-dark;
+                    color: darken($theme-primary,10%);
                 }
             }
             .nav > li > a,
             .nav > li > a:focus {
                 color: $theme-primary;
                 &:hover {
-                    color: $theme-dark;
+                    color: darken($theme-primary,10%);
                 }
             }
         }
