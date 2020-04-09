@@ -1,6 +1,6 @@
 # Site settings
-title:
-email: ""
+title:CopperPeakLimited
+email: "copperpeakltd@gmail.com"
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # https://www.copperpeakltd.co.uk the base hostname & protocol for your site
